@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449836711448",
+    "firebase_url": "https://lancelot-28f9a.firebaseio.com",
+    "project_id": "lancelot-28f9a",
+    "storage_bucket": "lancelot-28f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449836711448:android:6a5e4f2190e7b7f1",
+        "android_client_info": {
+          "package_name": "com.example.theproferry.lancelot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449836711448-8vq2a1fm2779npt1jok6aqa8o1hnj2ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theproferry.lancelot",
+            "certificate_hash": "1f895f5ed262391eb821f18aab6c10f0b99d7572"
+          }
+        },
+        {
+          "client_id": "449836711448-k4lf9riam63tjqsnus2av6i352mthig9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAZj97Fusm1VzWEk1Api84kZduCxCU8HQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449836711448-k4lf9riam63tjqsnus2av6i352mthig9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
